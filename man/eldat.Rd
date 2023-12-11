@@ -4,7 +4,7 @@
 \docType{data}
 \title{Outcomes of the USA presidential elections since 1920, and various predictors}
 
-\description{This is a dataset with the outcomes of the USA presidential elections since 1920. I have used this dataset in \href{http://vanderwalresearch.com/blog/15-elections}{my blog describing predictive models for the 2020 election}. The data include not only the winner and loser of each election, but also the popular vote margin, turnout and information on the development of the Dow Jones index and the per capita disposable income in the four years before each election. Willem M. van der Wal, PhD (\href{http://vanderwalresearch.com/}{vanderwalresearch.com}).}
+\description{This is a dataset with the outcomes of the USA presidential elections since 1920. I have used this dataset in \href{https://www.vanderwalresearch.com/blog/15-elections}{my blog describing predictive models for the 2020 election}. The data include not only the winner and loser of each election, but also the popular vote margin, turnout and information on the development of the Dow Jones index and the per capita disposable income in the four years before each election. Willem M. van der Wal, PhD (\href{https://www.vanderwalresearch.com/}{vanderwalresearch.com}).}
 
 \usage{data(eldat)}
 \format{
@@ -39,12 +39,12 @@ I used the following sources for these data:
 \href{http://australianpolitics.com/usa/president/list-of-presidents-of-the-united-states}{Complete List Of All The Presidents Of The United States},
 \href{https://en.wikipedia.org/wiki/List_of_Presidents_of_the_United_States}{List of Presidents of the United States},
 \href{https://en.wikipedia.org/wiki/List_of_United_States_presidential_elections_by_popular_vote_margin}{List of United States presidential elections by popular vote margin},
-\href{https://www.quandl.com/data/BCB/UDJIAD1-Dow-Jones-Industrial-Average}{Dow Jones Industrial Average},
+%% \href{https://www.quandl.com/data/BCB/UDJIAD1-Dow-Jones-Industrial-Average}{Dow Jones Industrial Average},
 \href{https://fred.stlouisfed.org/series/DJIA}{Dow Jones Industrial Average} and
-\href{https://bea.gov/iTable/index_nipa.cfm}{Bureau of Economic Analysis - National Data - GDP & Personal Income}.
+\href{https://www.bea.gov/itable/national-gdp-and-personal-income}{Bureau of Economic Analysis - National Data - GDP & Personal Income}.
 }
 
-\author{Willem M. van der Wal \email{willem@vanderwalresearch.com}, \href{http://vanderwalresearch.com/}{vanderwalresearch.com}.}
+\author{Willem M. van der Wal \email{willem@vanderwalresearch.com}, \href{https://www.vanderwalresearch.com/}{vanderwalresearch.com}.}
 
 \examples{
 
